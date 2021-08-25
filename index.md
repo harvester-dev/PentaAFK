@@ -1,12 +1,18 @@
 
+![pentawafk](3_0.png)
+
 # Introduction
 Since there is always a back and forth between Penta and his chat, I thought it would be interesting to see how often he really is AFK.
 
 So I made an analysis script based on chat's behaviour to see who's right.
 
-![pentawafk](3_0.png)
-
 `NOTE` Results are not exact down to the second and could be influenced if chat was meming about being AFK
+
+---
+
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/harvester-dev/PentaAFK/)
+
+See: https://github.com/harvester-dev/PentaAFK/
 # Summary
 
 | Date | VOD-Id | Time AFK (min) | Time Total | Time AFK (%)  |
